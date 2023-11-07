@@ -1,0 +1,44 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+import entities.Student;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		Student student; 
+		student = new Student();
+		
+		System.out.println("Enter the student name: ");
+		System.out.println("Name:");
+		student.name = sc.nextLine();
+		System.out.println("Enter three notes for the student: ");
+		student.note1 = sc.nextDouble();
+		if(student.note1 > 30) {
+			System.out.println("Invalid Note!");
+		}
+		student.note2 = sc.nextDouble();
+		student.note3 = sc.nextDouble();
+		
+		if(student.note2 > 35 || student.note3 > 35) {
+			System.out.println("Invalid Note!");
+			return 0;
+		}
+		
+		if(student.finalGrade() < 60) {
+			System.out.println("FAILED");
+			System.out.println("MISSING " + student.missingPoints() + " POINTS");
+		} else {
+			System.out.println("PASSED");
+		}
+		
+		sc.close();
+	}
+
+}

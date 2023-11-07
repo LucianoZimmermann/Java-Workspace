@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+	<name>course2</name>
+=======
+	<name>course</name>
+>>>>>>> 06cfa160c8141af448e3aa8d937e3388fcb09cba
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>

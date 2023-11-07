@@ -1,0 +1,10 @@
+package util;
+
+public class MediumHeight {
+	public double sumHeight;
+	public int n;
+	
+	public double mediumHight(double height) {
+		return sumHeight / n;
+	}
+}

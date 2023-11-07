@@ -1,0 +1,33 @@
+package application;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		List<String> list = new ArrayList<>();
+		
+		list.add("Ane");
+		list.add("Luciano");
+		list.add("Cristiano Ronaldo");
+		list.add("Beto Cabreiro");
+		list.add(2, "Marco");
+		
+		System.out.println(list.size());
+		
+		list.remove(2);
+		
+		for(String x : list) {
+			System.out.println(x);
+		}
+		
+		sc.close();
+	}
+
+}
