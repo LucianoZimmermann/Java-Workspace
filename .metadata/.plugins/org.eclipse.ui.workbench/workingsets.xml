@@ -16,7 +16,6 @@
 <item elementID="=course" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=DadosPessoais" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=course3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=course2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=ProblemaNegativos" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=course5" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=course4" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
