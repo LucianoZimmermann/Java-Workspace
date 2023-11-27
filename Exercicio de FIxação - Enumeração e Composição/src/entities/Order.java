@@ -29,13 +29,15 @@ public class Order {
 	public void setMoment(Date moment) {
 		this.moment = moment;
 	}
+	
 	public OrderStatus getStatus() {
 		return status;
 	}
+
 	public void setStatus(OrderStatus status) {
 		this.status = status;
 	}
-	
+
 	public void addItem(OrderItem item) {
 		items.add(item);
 	}
