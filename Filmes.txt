@@ -1,0 +1,20 @@
+ANE, 1, Um Contra Tempo, SUSPENSE, 2016
+ANE, 2, O Show de Truman, COMEDIA, 1998
+ANE, 3, Até O Último Homem, DRAMA, 2016
+ANE, 4, Mãos Talentosas, DRAMA, 2009
+ANE, 5, 10 Coisas Que Odeio Em Você, COMEDIAROMANTICA, 1999
+ANE, 6, A Escolha, ROMANCE, 2016
+ANE, 7, Dunkirk, ACAO, 2017
+ANE, 8, Toda Luz Que Não Podemos Ver, SERIE, 2023
+ANE, 9, Simplesmente Acontece, ROMANCE, 2014
+ANE, 10, Diário de Paixão, ROMANCE, 2004
+LUCIANO, 11, Atlantis: O Reino Perdido, ANIMACAO, 2001
+LUCIANO, 12, Titanic, ROMANCE, 1997
+LUCIANO, 13, Seven - Os Sete Pecados Capitais, SUSPENSE, 1995
+LUCIANO, 14, Monstros SA, ANIMACAO, 2001
+LUCIANO, 15, Bastardos Inglórios, ACAO, 2009
+LUCIANO, 16, Cartas Para Julietta, COMEDIAROMANTICA, 2010
+LUCIANO, 17, Dick E Jane, COMEDIA, 2005
+LUCIANO, 18, A Ilha Do Medo, SUSPENSE, 2010
+LUCIANO, 19, Amizade Colorida, COMEDIAROMANTICA, 2011
+LUCIANO, 20, O Lobo De Wallstreet, COMEDIA, 2013
