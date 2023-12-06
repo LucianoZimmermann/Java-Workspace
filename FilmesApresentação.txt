@@ -1,0 +1,25 @@
+LUIZ, 1, Um Contra Tempo, SUSPENSE, 2016
+LUIZ, 2, O Show de Truman, COMEDIA, 1998
+LUIZ, 3, Até O Último Homem, DRAMA, 2016
+LUIZ, 4, Mãos Talentosas, DRAMA, 2009
+LUIZ, 5, 10 Coisas Que Odeio Em Você, COMEDIAROMANTICA, 1999
+MATHEUS, 6, A Escolha, ROMANCE, 2016
+MATHEUS, 7, Dunkirk, ACAO, 2017
+MATHEUS, 8, Toda Luz Que Não Podemos Ver, SERIE, 2023
+MATHEUS, 9, Simplesmente Acontece, ROMANCE, 2014
+MATHEUS, 10, Diário de Paixão, ROMANCE, 2004
+YURI, 11, Atlantis: O Reino Perdido, ANIMACAO, 2001
+YURI, 12, Titanic, ROMANCE, 1997
+YURI, 13, Seven - Os Sete Pecados Capitais, SUSPENSE, 1995
+YURI, 14, Monstros SA, ANIMACAO, 2001
+YURI, 15, Bastardos Inglórios, ACAO, 2009
+LUCIANO, 16, Cartas Para Julietta, COMEDIAROMANTICA, 2010
+LUCIANO, 17, Dick E Jane, COMEDIA, 2005
+LUCIANO, 18, A Ilha Do Medo, SUSPENSE, 2010
+LUCIANO, 19, Amizade Colorida, COMEDIAROMANTICA, 2011
+LUCIANO, 20, O Lobo De Wallstreet, COMEDIA, 2013
+RAFAEL, 21, Interstellar, FICCAO, 2014
+RAFAEL, 22, Whiplash, DRAMA, 2014
+RAFAEL, 23, A Origem, ACAO, 2010
+RAFAEL, 24, ME CHAME PELO SEU NOME, DRAMA, 2017
+RAFAEL, 25, JOKER, DRAMA, 2019
