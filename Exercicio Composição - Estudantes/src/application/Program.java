@@ -27,9 +27,9 @@ public class Program {
         student2.setAverage(grades2.average());
         student3.setAverage(grades3.average());
 
-        student1.setStatus(ApprovalStatus.valueOf(student1.getAverage() < 7 ? "REPROVED" : "APPROVED"));
-        student2.setStatus(ApprovalStatus.valueOf(student2.getAverage() < 7 ? "REPROVED" : "APPROVED"));
-        student3.setStatus(ApprovalStatus.valueOf(student3.getAverage() < 7 ? "REPROVED" : "APPROVED"));
+        student1.setStatus(ApprovalStatus.valueOf(student1.getAverage() <= 7 ? "REPROVED" : "APPROVED"));
+        student2.setStatus(ApprovalStatus.valueOf(student2.getAverage() <= 7 ? "REPROVED" : "APPROVED"));
+        student3.setStatus(ApprovalStatus.valueOf(student3.getAverage() <= 7 ? "REPROVED" : "APPROVED"));
 
         System.out.println(student1);
         System.out.println(student2);
