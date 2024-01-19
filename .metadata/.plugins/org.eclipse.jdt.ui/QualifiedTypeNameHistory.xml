@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="entities.ContaPoupanca"/>
-    <fullyQualifiedTypeName name="entities.ContaCorrente"/>
     <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
     <fullyQualifiedTypeName name="model.entities.Reservation"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
@@ -16,7 +14,6 @@
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
     <fullyQualifiedTypeName name="entities.enums.Author"/>
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
@@ -44,20 +41,23 @@
     <fullyQualifiedTypeName name="model.entities.PersonalAccount"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="model.services.OnlinePaymentService"/>
     <fullyQualifiedTypeName name="java.time.Duration"/>
     <fullyQualifiedTypeName name="model.entities.Contract"/>
     <fullyQualifiedTypeName name="model.entities.Installment"/>
     <fullyQualifiedTypeName name="model.services.ContractService"/>
-    <fullyQualifiedTypeName name="services.OnlinePaymentService"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="entites.Contract"/>
-    <fullyQualifiedTypeName name="services.ContractService"/>
     <fullyQualifiedTypeName name="entites.Installment"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="services.OnlinePaymentService"/>
+    <fullyQualifiedTypeName name="entities.Contract"/>
+    <fullyQualifiedTypeName name="services.ContractService"/>
     <fullyQualifiedTypeName name="services.PaypalService"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="entities.Installment"/>
 </qualifiedTypeNameHistroy>
