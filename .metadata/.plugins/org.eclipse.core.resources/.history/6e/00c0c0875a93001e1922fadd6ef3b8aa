@@ -1,0 +1,13 @@
+package model.entities;
+
+import java.time.LocalDateTime;
+
+public class CarRenthal {
+	private LocalDateTime start;
+	private LocalDateTime finish;
+	private Vehicle vehicle;
+	
+	
+	
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;model.exception&apos; to &apos;model.exceptions&apos;&#x0D;&#x0A;- Original project: &apos;Solução Tratamento de Exceções&apos;&#x0D;&#x0A;- Original element: &apos;Solução Tratamento de Exceções/src/model.exception&apos;&#x0D;&#x0A;- Renamed element: &apos;Solução Tratamento de Exceções/src/model.exceptions&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;model.exception&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;model.exception" name="model.exceptions" qualified="false" references="true" stamp="1701110750672" textual="false" version="1.0"/>
+</session>

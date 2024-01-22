@@ -1,0 +1,39 @@
+package application;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import entities.Movies;
+import entities.enums.Author;
+import entities.enums.Gender;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		List<Movies> list = new ArrayList<>();
+		
+		String path = "C:\\Users\\lucia\\eclipse-workspace\\Filmes.txt";
+		
+		try(BufferedReader br = new BufferedReader(new FileReader(path))) {
+			String line = br.readLine();
+			while(line != null) {
+				String[] fields = line.split(",");
+				
+				Author author = Author.valueOf(fields[0]);
+				int index = Integer.parseInt(fields[1]);
+				String title = fields[2];
+				Gender gender = Gender.valueOf(fields[3]);
+				int release = Integer.parseInt(fields[4]);
+				list.add(new Movies(author, index, title, gender, release));
+			}
+		}
+		catch(IOException e) {
+			System.out.println("Error: " + e.getMessage());
+		}
+	}
+
+}
