@@ -10,7 +10,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1694462323834"/>
     <tags>topLevel</tags>
-    <tags>shellMaximized</tags>
+    <tags>shellMinimized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_jLESYrSMEe6iUP-3lMvC_g" selectedElement="_jLESY7SMEe6iUP-3lMvC_g" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_jLESY7SMEe6iUP-3lMvC_g" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_jLESZLSMEe6iUP-3lMvC_g">
         <children xsi:type="advanced:Perspective" xmi:id="_jLESZLSMEe6iUP-3lMvC_g" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_jLESZbSMEe6iUP-3lMvC_g" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
@@ -87,6 +87,7 @@
               <children xsi:type="basic:PartStack" xmi:id="_jLESZ7SMEe6iUP-3lMvC_g" elementId="left" containerData="6000" selectedElement="_jLESaLSMEe6iUP-3lMvC_g">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
                 <tags>active</tags>
+                <tags>noFocus</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_jLESaLSMEe6iUP-3lMvC_g" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_jLE6vrSMEe6iUP-3lMvC_g" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:Java</tags>
@@ -388,7 +389,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_jLE6WrSMEe6iUP-3lMvC_g" elementId="org.eclipse.ui.editorss" selectedElement="_jLE6W7SMEe6iUP-3lMvC_g">
-      <children xsi:type="basic:PartStack" xmi:id="_jLE6W7SMEe6iUP-3lMvC_g" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_Rlf1kLbLEe6DRoXyQbQ45w">
+      <children xsi:type="basic:PartStack" xmi:id="_jLE6W7SMEe6iUP-3lMvC_g" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_o9bd8LbOEe6DRoXyQbQ45w">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <children xsi:type="basic:Part" xmi:id="___LKALbIEe6DRoXyQbQ45w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Program.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
@@ -410,7 +411,7 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_h8kqULbOEe6DRoXyQbQ45w" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ContractService.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ContractService.java&quot; partName=&quot;ContractService.java&quot; title=&quot;ContractService.java&quot; tooltip=&quot;course 15 - Interfaces/src/services/ContractService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/course 15 - Interfaces/src/services/ContractService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;835&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ContractService.java&quot; partName=&quot;ContractService.java&quot; title=&quot;ContractService.java&quot; tooltip=&quot;course 15 - Interfaces/src/services/ContractService.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/course 15 - Interfaces/src/services/ContractService.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;48&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -702,7 +703,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_jLE7FLSMEe6iUP-3lMvC_g" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Lss9kLbIEe6DRoXyQbQ45w" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_jLH9wbSMEe6iUP-3lMvC_g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_PmKvMLbYEe62VKfDVQMC0g" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_jLH9wbSMEe6iUP-3lMvC_g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_jLFgiLSMEe6iUP-3lMvC_g" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -733,7 +734,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_jLFgz7SMEe6iUP-3lMvC_g" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_LsuyxbbIEe6DRoXyQbQ45w" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_jLH9fLSMEe6iUP-3lMvC_g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_PmNLcLbYEe62VKfDVQMC0g" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_jLH9fLSMEe6iUP-3lMvC_g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_jLFg27SMEe6iUP-3lMvC_g" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
