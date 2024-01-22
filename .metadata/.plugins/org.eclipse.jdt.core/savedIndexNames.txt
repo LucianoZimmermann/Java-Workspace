@@ -9,7 +9,6 @@ INDEX VERSION 1.134+C:\Users\lucia\eclipse-workspace\.metadata\.plugins\org.ecli
 2671946336.index
 2982458838.index
 1541904797.index
-3325282289.index
 2367731363.index
 633273666.index
 3456573857.index
