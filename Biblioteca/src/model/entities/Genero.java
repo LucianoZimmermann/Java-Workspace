@@ -1,0 +1,15 @@
+package model.entities;
+
+public enum Genero {
+	ROMANCE,
+	ACAO,
+	AVENTURA,
+	COMEDIA,
+	DOCUMENTARIO,
+	JAVA,
+	POO,
+	FILOSOFIA,
+	LINGUA_PORTUGUESA,
+	MATEMATICA,
+	CIENCIAS
+}

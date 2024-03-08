@@ -1,0 +1,70 @@
+1,"O Pequeno Príncipe",91,false,FILOSOFIA
+2,"Dom Quixote",992,false,AVENTURA
+3,"Cem Anos de Solidão",417,false,ROMANCE
+4,"A Revolução dos Bichos",112,false,FILOSOFIA
+5,"1984",328,false,FILOSOFIA
+6,"Crime e Castigo",671,false,FILOSOFIA
+7,"O Senhor dos Anéis",1178,false,AVENTURA
+8,"Orgulho e Preconceito",432,false,ROMANCE
+9,"Harry Potter e a Pedra Filosofal",223,false,AVENTURA
+10,"O Alquimista",163,false,FILOSOFIA
+11,"O Retrato de Dorian Gray",274,false,FILOSOFIA
+12,"A Metamorfose",55,false,FILOSOFIA
+13,"A Odisséia",416,false,AVENTURA
+14,"A Ilha do Tesouro",236,false,AVENTURA
+15,"Anna Karenina",864,false,ROMANCE
+16,"Os Miseráveis",1488,false,ROMANCE
+17,"A Menina que Roubava Livros",480,false,AVENTURA
+18,"Moby Dick",585,false,AVENTURA
+19,"A Arte da Guerra",73,false,FILOSOFIA
+20,"A Moreninha",120,false,ROMANCE
+21,"Ensaio sobre a Cegueira",312,false,FILOSOFIA
+22,"O Principezinho",93,false,FILOSOFIA
+23,"O Hobbit",310,false,AVENTURA
+24,"O Código da Vinci",489,false,AVENTURA
+25,"A Cabana",240,false,FILOSOFIA
+26,"O Grande Gatsby",200,false,ROMANCE
+27,"A Revolta de Atlas",1205,false,FILOSOFIA
+28,"A Revolução Industrial",285,false,DOCUMENTARIO
+29,"O Nome da Rosa",553,false,FILOSOFIA
+30,"A Menina do Vale",172,false,ROMANCE
+31,"O Silmarillion",480,false,AVENTURA
+32,"O Leão a Feiticeira e o Guarda-Roupa",208,false,AVENTURA
+33,"A Rainha Vermelha",472,false,AVENTURA
+34,"O Iluminado",447,false,AVENTURA
+35,"1984",336,false,FILOSOFIA
+36,"O Velho e o Mar",128,false,AVENTURA
+37,"A Cabana",240,false,FILOSOFIA
+38,"O Pequeno Príncipe",96,false,FILOSOFIA
+39,"O Caçador de Pipas",370,false,ROMANCE
+40,"O Diário de Anne Frank",352,false,FILOSOFIA
+41,"O Mundo de Sofia",552,false,FILOSOFIA
+42,"O Símbolo Perdido",509,false,AVENTURA
+43,"A Hora da Estrela",192,false,ROMANCE
+44,"O Homem Invisível",240,false,AVENTURA
+45,"O Senhor das Moscas",224,false,AVENTURA
+46,"O Primo Basílio",400,false,ROMANCE
+47,"O Cortiço",384,false,ROMANCE
+48,"A Peste",288,false,FILOSOFIA
+49,"A Bíblia Sagrada",1584,false,FILOSOFIA
+50,"O Médico",464,false,AVENTURA
+51,"O Cemitério",424,false,AVENTURA
+52,"O Monte dos Vendavais",416,false,ROMANCE
+53,"Crepúsculo",434,false,ROMANCE
+54,"O Poderoso Chefão",448,false,AVENTURA
+55,"O Lobo da Estepe",416,false,FILOSOFIA
+56,"A Menina que Brincava com Fogo",688,false,AVENTURA
+57,"O Caso dos Exploradores de Cavernas",120,false,FILOSOFIA
+58,"Memórias Póstumas de Brás Cubas",256,false,FILOSOFIA
+59,"A Insustentável Leveza do Ser",360,false,ROMANCE
+60,"O Guarani",392,false,ROMANCE
+61,"O Morro dos Ventos Uivantes",416,false,ROMANCE
+62,"A Divina Comédia",798,false,FILOSOFIA
+63,"O Hobbit",310,false,AVENTURA
+64,"O Conde de Monte Cristo",1184,false,AVENTURA
+65,"O Estrangeiro",128,false,FILOSOFIA
+66,"A Metamorfose",55,false,FILOSOFIA
+67,"O Velho e o Mar",128,false,AVENTURA
+68,"A Revolta de Atlas",1205,false,FILOSOFIA
+69,"O Principezinho",93,false,FILOSOFIA
+70,"O Silmarillion",480,false,AVENTURA
